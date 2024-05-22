@@ -1,6 +1,7 @@
 # Table of contents
 
-* [\_Template](README.md)
+* [Index](README.md)
+* [\_Template](<README (1).md>)
 * [Ash](ash/README.md)
   * [Ash Nourish](ash/ash-nourish.md)
   * [Ash Wrathful](ash/ash-wrathful.md)
