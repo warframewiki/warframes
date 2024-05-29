@@ -13,7 +13,7 @@ You should target enemies with a lot of health.
 
 {% tabs %}
 {% tab title="Melee" %}
-Movspeed [Praedos](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/) is a good pick.
+Movspeed [Praedos](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/praedos) is a good pick.
 {% endtab %}
 
 {% tab title="Primary" %}

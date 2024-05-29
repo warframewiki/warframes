@@ -5,8 +5,8 @@ This build is reliant on a specific weapon, the [Arca Plasmor](https://app.gitbo
 (Projectiles wil bounce inside 2nd ability)
 {% endhint %}
 
-Keep 1st ability active for damage.\
-Priming -> cast 4th ability -> cast 3rd ability -> shoot.
+Keep subsumed 1st ability active for damage.\
+Priming -> Cast 4th ability -> Cast 3rd ability -> shoot.
 
 *
 
@@ -31,7 +31,7 @@ Epitapth
 
 <summary>Shards</summary>
 
-![](.gitbook/assets/image.png)![](<.gitbook/assets/image (1).png>)![](<.gitbook/assets/image (2).png>)![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4).png>)![](<.gitbook/assets/image (1) (1).png>)![](<.gitbook/assets/image (2) (1).png>)![](<.gitbook/assets/image (3) (1).png>)![](<.gitbook/assets/image (4) (1).png>)
 
 </details>
 

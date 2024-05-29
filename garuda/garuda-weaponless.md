@@ -1,8 +1,12 @@
 # Garuda Weaponless
 
+{% hint style="info" %}
+This build relies on being always on the same place for survivability and energy.\
+Bring <mark style="color:blue;">Magus anomaly</mark> on operator's loadout (and do transference) or bring [Nautilus ](https://app.gitbook.com/s/DsKnhiemKHzYADgaH4Ah/nautilus)to pull enemies.
+{% endhint %}
+
 Cast 2nd ability on 3 targets for healing.\
-2 madurai void slings -> 3rd ability to charge energy -> 4th ability to prime -> spam subsumed 1st.\
-Bring Magus anomaly on operator's loadout (and do transference) or bring Nautilus to pull enemies.
+2 Madurai void slings -> Cast 3rd ability to charge energy -> Cast 4th ability to prime -> Spam subsumed 1st.
 
 *
 
@@ -10,7 +14,7 @@ Bring Magus anomaly on operator's loadout (and do transference) or bring Nautilu
 The bottom right meter increases of 5% every kill and boosts weapon and ability DMG.
 {% endhint %}
 
-<table><thead><tr><th width="111">Ability</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29).png" alt="" data-size="original"></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>SUBSUMED 1st, Hydroid. <br></td></tr><tr><td><img src="../.gitbook/assets/image (28).png" alt="" data-size="original"></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (26).png" alt="" data-size="original"></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (27).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="111">Ability</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29).png" alt="" data-size="original"></td><td>Turns one enemy into a portable shield. <br>Hold to remove the shield and deal AOE.</td></tr><tr><td><img src="../.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>SUBSUMED 1st, Hydroid. <br>Viral AOE.</td></tr><tr><td><img src="../.gitbook/assets/image (28).png" alt="" data-size="original"></td><td>Impale up to 3 enemies to heal you and allies over time.</td></tr><tr><td><img src="../.gitbook/assets/image (26).png" alt="" data-size="original"></td><td>Drain health to regenerate energy.<br>Cleanses status effects.</td></tr><tr><td><img src="../.gitbook/assets/image (27).png" alt="" data-size="original"></td><td>Omnidirectional bleeding AOE, hold to increase area.</td></tr></tbody></table>
 
 
 

@@ -21,7 +21,7 @@ Anything that primes with viral, like [Kompressa](https://app.gitbook.com/s/mVZY
 {% endtab %}
 
 {% tab title="Companion" %}
-[Diriga ](https://app.gitbook.com/s/DsKnhiemKHzYADgaH4Ah/)to trigger archon stretch.
+[Diriga ](https://app.gitbook.com/s/DsKnhiemKHzYADgaH4Ah/diriga)to trigger archon stretch.
 {% endtab %}
 {% endtabs %}
 

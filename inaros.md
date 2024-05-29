@@ -6,7 +6,7 @@ This build is reliant on weapons.\
 {% endhint %}
 
 Cast 3rd and wait the shield to charge for survivability.\
-2 Madurai void slings -> subsumed 1st ability -> [Praedos ](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/)ground slam -> 2nd ability.
+2 Madurai void slings -> Cast subsumed 1st ability -> [Praedos ](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/praedos)ground slam -> Cast 2nd ability.
 
 *
 
@@ -18,7 +18,7 @@ Cast 3rd and wait the shield to charge for survivability.\
 {% endtab %}
 
 {% tab title="Melee" %}
-Bring a melee weapon with Slash/Bleeding, [Praedos ](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/)ground slam triggers dispatch overdrive and makes you go speedy gonzales.
+Bring a melee weapon with Slash/Bleeding, [Praedos ](https://app.gitbook.com/s/mVZYg4ro0zpRehSXa4NR/praedos)ground slam triggers dispatch overdrive and makes you go speedy gonzales.
 {% endtab %}
 {% endtabs %}
 
